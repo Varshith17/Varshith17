@@ -5,9 +5,9 @@
 ## I'm new, but passionate for Learning new Technologies!
 
 
-- 🌱 I’m currently learning React Native for Andriod/IOS Application developement.
+- 🌱 I’m currently learning AWS cloud Technologies to enhance my backend development skills using aws cloud services.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2022 Goals: Learn more about web and mobile app development and focus on UI development and full stack.
+- 🥅 2024 Goals: Learn more about AWS cloud.
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshith-b-r-69b8ab186/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/varshith_17/)
